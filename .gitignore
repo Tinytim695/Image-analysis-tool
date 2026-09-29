@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.DS_Store
+image-reports/
+image-sanitized/
+selected-image
+compare-image

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#000"/>
+<g fill="#f2f2f2" font-family="monospace" font-size="24">
+<rect x="25" y="25" width="1150" height="850" fill="none" stroke="#ddd" stroke-width="3"/>
+<text x="55" y="75" font-size="32">🔎 IMAGE INTELLIGENCE</text>
+<text x="55" y="110">Local Mobile Image Forensics</text>
+<text x="55" y="160">🔐 Analysis : LOCAL     🚫 Uploads : NONE     🌐 Network : NONE</text>
+<text x="55" y="195">📁 Folders  : DISABLED  📝 Original : NOT MODIFIED</text>
+<text x="55" y="245">CHOOSE INVESTIGATION</text>
+<text x="55" y="290">[1] ⚡ Quick investigation</text>
+<text x="55" y="325">[2] 🧠 Deep forensic analysis</text>
+<text x="55" y="360">[3] 🧬 Full metadata</text>
+<text x="55" y="395">[4] 📍 GPS diagnostics</text>
+<text x="55" y="430">[5] 🤖 AI / C2PA</text>
+<text x="55" y="465">[6] 🔐 Hashes / fingerprints</text>
+<text x="55" y="500">[7] 🕐 Timeline</text>
+<text x="55" y="535">[8] 🧱 File anatomy</text>
+<text x="55" y="570">[9] 🧼 Sanitized copy</text>
+<text x="55" y="620">[V] 🔎 Visual object / face detection</text>
+<text x="55" y="655">[R] 🔎 Reverse image search</text>
+<text x="55" y="690">[C] 🆚 Compare images</text>
+<text x="55" y="725">[F] 📄 Open full report</text>
+<text x="55" y="760">[D] 🩺 Doctor     [H] 📖 Help     [Q] Exit</text>
+<text x="55" y="825">Choice: █</text>
+</g>
+</svg>
